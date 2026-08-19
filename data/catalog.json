@@ -1,0 +1,4102 @@
+[
+  {
+    "id": 1,
+    "type": "movie",
+    "title": "The Godfather",
+    "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "year": "1972",
+    "release_date": "1972-03-14",
+    "rating": 8.7,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+    "runtime": 175,
+    "episodes": null,
+    "cast": [
+      "Al Pacino",
+      "Marlon Brando",
+      "James Caan"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Francis Ford Coppola"
+    ],
+    "writers": [
+      "Francis Ford Coppola",
+      "Mario Puzo"
+    ],
+    "certification": "R",
+    "trailer_yt": "1x0GpEZnwa8",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=The%20Godfather",
+    "tagline": "An offer you can't refuse.",
+    "slug": "the-godfather-1"
+  },
+  {
+    "id": 2,
+    "type": "movie",
+    "title": "The Shawshank Redemption",
+    "poster": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "year": "1994",
+    "release_date": "1994-09-23",
+    "rating": 8.7,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+    "runtime": 142,
+    "episodes": null,
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Frank Darabont"
+    ],
+    "writers": [
+      "Stephen King",
+      "Frank Darabont",
+      "Pete von Sholly"
+    ],
+    "certification": "R",
+    "trailer_yt": "K_tLp7T6U1c",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=The%20Shawshank%20Redemption",
+    "tagline": "Fear can hold you prisoner. Hope can set you free.",
+    "slug": "the-shawshank-redemption-2"
+  },
+  {
+    "id": 3,
+    "type": "movie",
+    "title": "The Godfather: Part II",
+    "poster": "https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+    "year": "1974",
+    "release_date": "1974-12-20",
+    "rating": 8.6,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+    "runtime": 202,
+    "episodes": null,
+    "cast": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Robert Duvall"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Francis Ford Coppola"
+    ],
+    "writers": [
+      "Francis Ford Coppola",
+      "Mario Puzo"
+    ],
+    "certification": "R",
+    "trailer_yt": "9O1Iy9od7-A",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=The%20Godfather%3A%20Part%20II",
+    "tagline": "I don't feel I have to wipe everybody out, Tom. Just my enemies.",
+    "slug": "the-godfather-part-ii-3"
+  },
+  {
+    "id": 4,
+    "type": "movie",
+    "title": "Schindler's List",
+    "poster": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+    "year": "1993",
+    "release_date": "1993-11-30",
+    "rating": 8.6,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+    "runtime": 195,
+    "episodes": null,
+    "cast": [
+      "Liam Neeson",
+      "Ben Kingsley",
+      "Ralph Fiennes"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Steven Spielberg"
+    ],
+    "writers": [
+      "Steven Zaillian",
+      "Thomas Keneally"
+    ],
+    "certification": "R",
+    "trailer_yt": "bJcLRFWxRno",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Schindler%27s%20List",
+    "tagline": "Whoever saves one life, saves the world entire.",
+    "slug": "schindler-s-list-4"
+  },
+  {
+    "id": 5,
+    "type": "movie",
+    "title": "The Dark Knight",
+    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "year": "2008",
+    "release_date": "2008-07-16",
+    "rating": 8.5,
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "runtime": 152,
+    "episodes": null,
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Michael Caine"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Christopher Nolan"
+    ],
+    "writers": [
+      "Christopher Nolan",
+      "Jonathan Nolan",
+      "David S. Goyer"
+    ],
+    "certification": "PG-13",
+    "trailer_yt": "kmJLuwP3MbY",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=The%20Dark%20Knight",
+    "tagline": "Why So Serious?",
+    "slug": "the-dark-knight-5"
+  },
+  {
+    "id": 6,
+    "type": "movie",
+    "title": "Pulp Fiction",
+    "poster": "https://image.tmdb.org/t/p/w500/x1QZHSq9AzreIVbsp8VgYemAjV0.jpg",
+    "year": "1994",
+    "release_date": "1994-09-10",
+    "rating": 8.5,
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "runtime": 154,
+    "episodes": null,
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Quentin Tarantino"
+    ],
+    "writers": [
+      "Quentin Tarantino",
+      "Roger Avary"
+    ],
+    "certification": "R",
+    "trailer_yt": "tGpTpVyI_OQ",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Pulp%20Fiction",
+    "tagline": "Just because you are a character doesn't mean you have character.",
+    "slug": "pulp-fiction-6"
+  },
+  {
+    "id": 7,
+    "type": "movie",
+    "title": "Forrest Gump",
+    "poster": "https://image.tmdb.org/t/p/w500/h5J4W4veyxMXDMjeNxZI46TsHOb.jpg",
+    "year": "1994",
+    "release_date": "1994-07-06",
+    "rating": 8.5,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "runtime": 142,
+    "episodes": null,
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Robert Zemeckis"
+    ],
+    "writers": [
+      "Winston Groom",
+      "Eric Roth",
+      "Erik TIemens"
+    ],
+    "certification": "PG-13",
+    "trailer_yt": "bLvqoHBptjg",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Forrest%20Gump",
+    "tagline": "Life is like a box of chocolates...you never know what you're gonna get.",
+    "slug": "forrest-gump-7"
+  },
+  {
+    "id": 8,
+    "type": "movie",
+    "title": "The Green Mile",
+    "poster": "https://image.tmdb.org/t/p/w500/velWPhVMQeQKcxggNEU8YmIo52R.jpg",
+    "year": "1999",
+    "release_date": "1999-12-10",
+    "rating": 8.5,
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Crime"
+    ],
+    "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+    "runtime": 189,
+    "episodes": null,
+    "cast": [
+      "Tom Hanks",
+      "David Morse",
+      "Bonnie Hunt"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Frank Darabont"
+    ],
+    "writers": [
+      "Stephen King",
+      "Frank Darabont"
+    ],
+    "certification": "R",
+    "trailer_yt": "ctRK-4Vt7dA",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=The%20Green%20Mile",
+    "tagline": "Miracles do happen.",
+    "slug": "the-green-mile-8"
+  },
+  {
+    "id": 9,
+    "type": "movie",
+    "title": "GoodFellas",
+    "poster": "https://image.tmdb.org/t/p/w500/6QMSLvU5ziIL2T6VrkaKzN2YkxK.jpg",
+    "year": "1990",
+    "release_date": "1990-09-12",
+    "rating": 8.4,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+    "runtime": 145,
+    "episodes": null,
+    "cast": [
+      "Ray Liotta",
+      "Robert De Niro",
+      "Joe Pesci"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Martin Scorsese"
+    ],
+    "writers": [
+      "Martin Scorsese",
+      "Nicholas Pileggi"
+    ],
+    "certification": "R",
+    "trailer_yt": "2ilzidi_J8Q",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=GoodFellas",
+    "tagline": "Three Decades of Life in the Mafia.",
+    "slug": "goodfellas-9"
+  },
+  {
+    "id": 10,
+    "type": "movie",
+    "title": "Fight Club",
+    "poster": "https://image.tmdb.org/t/p/w500/8kNruSfhk5IoE4eZOc4UpvDn6tq.jpg",
+    "year": "1999",
+    "release_date": "1999-10-15",
+    "rating": 8.4,
+    "genres": [
+      "Drama"
+    ],
+    "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "runtime": 139,
+    "episodes": null,
+    "cast": [
+      "Edward Norton",
+      "Brad Pitt",
+      "Helena Bonham Carter"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "David Fincher"
+    ],
+    "writers": [
+      "Chuck Palahniuk",
+      "Jim Uhls"
+    ],
+    "certification": "R",
+    "trailer_yt": "BdJKm16Co6M",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Fight%20Club",
+    "tagline": "Mischief. Mayhem. Soap.",
+    "slug": "fight-club-10"
+  },
+  {
+    "id": 11,
+    "type": "movie",
+    "title": "The Lord of the Rings: The Return of the King",
+    "poster": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+    "year": "2003",
+    "release_date": "2003-12-01",
+    "rating": 8.5,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "overview": "Aragorn is revealed as the heir to the ancient kings as he, Gandalf and the other members of the broken fellowship struggle to save Gondor from Sauron's forces. Meanwhile, Frodo and Sam take the ring closer to the heart of Mordor, the dark lord's realm.",
+    "runtime": 201,
+    "episodes": null,
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Liv Tyler"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Peter Jackson"
+    ],
+    "writers": [
+      "Peter Jackson",
+      "J.R.R. Tolkien",
+      "Fran Walsh"
+    ],
+    "certification": "PG-13",
+    "trailer_yt": "r5X-hFf6Bwo",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=The%20Lord%20of%20the%20Rings%3A%20The%20Return%20of%20the%20King",
+    "tagline": "The eye of the enemy is moving.",
+    "slug": "the-lord-of-the-rings-the-return-of-the-king-11"
+  },
+  {
+    "id": 12,
+    "type": "movie",
+    "title": "12 Angry Men",
+    "poster": "https://image.tmdb.org/t/p/w500/ppd84D2i9W8jXmsyInGyihiSyqz.jpg",
+    "year": "1957",
+    "release_date": "1957-04-10",
+    "rating": 8.5,
+    "genres": [
+      "Drama"
+    ],
+    "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+    "runtime": 97,
+    "episodes": null,
+    "cast": [
+      "Martin Balsam",
+      "John Fiedler",
+      "Lee J. Cobb"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Sidney Lumet"
+    ],
+    "writers": [
+      "Reginald Rose"
+    ],
+    "certification": "NR",
+    "trailer_yt": "_13J_9B5jEk",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=12%20Angry%20Men",
+    "tagline": "Life is in their hands. Death is on their minds.",
+    "slug": "12-angry-men-12"
+  },
+  {
+    "id": 13,
+    "type": "movie",
+    "title": "City of God",
+    "poster": "https://image.tmdb.org/t/p/w500/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg",
+    "year": "2002",
+    "release_date": "2002-02-05",
+    "rating": 8.4,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "overview": "Buscapé was raised in a very violent environment. Despite the feeling that all odds were against him, he finds out that life can be seen with other eyes...",
+    "runtime": 130,
+    "episodes": null,
+    "cast": [
+      "Alexandre Rodrigues",
+      "Leandro Firmino",
+      "Phellipe Haagensen"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Fernando Meirelles"
+    ],
+    "writers": [
+      "Paulo Lins",
+      "Bráulio Mantovani"
+    ],
+    "certification": "R",
+    "trailer_yt": "ioUE_5wpg_E",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=City%20of%20God",
+    "tagline": "If you run, you're dead... if you stay, you're dead again.",
+    "slug": "city-of-god-13"
+  },
+  {
+    "id": 14,
+    "type": "movie",
+    "title": "American History X",
+    "poster": "https://image.tmdb.org/t/p/w500/c2gsmSQ2Cqv8zosqKOCwRS0GFBS.jpg",
+    "year": "1998",
+    "release_date": "1998-10-30",
+    "rating": 8.4,
+    "genres": [
+      "Drama"
+    ],
+    "overview": "Derek Vineyard is paroled after serving 3 years in prison for killing two African-American men. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did.",
+    "runtime": 119,
+    "episodes": null,
+    "cast": [
+      "Edward Norton",
+      "Edward Furlong",
+      "Beverly D'Angelo"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Tony Kaye"
+    ],
+    "writers": [
+      "David McKenna"
+    ],
+    "certification": "R",
+    "trailer_yt": "JsPW6Fj3BUI",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=American%20History%20X",
+    "tagline": "Some Legacies Must End.",
+    "slug": "american-history-x-14"
+  },
+  {
+    "id": 15,
+    "type": "movie",
+    "title": "Whiplash",
+    "poster": "https://image.tmdb.org/t/p/w500/E1fpfU9cMCgFYL3QPvJr3vt20X.jpg",
+    "year": "2014",
+    "release_date": "2014-10-10",
+    "rating": 8.4,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+    "runtime": 107,
+    "episodes": null,
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Damien Chazelle"
+    ],
+    "writers": [
+      "Damien Chazelle"
+    ],
+    "certification": "R",
+    "trailer_yt": "Df1xkYYbYrY",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Whiplash",
+    "tagline": "The road to greatness can take you to the edge.",
+    "slug": "whiplash-15"
+  },
+  {
+    "id": 16,
+    "type": "movie",
+    "title": "The Pianist",
+    "poster": "https://image.tmdb.org/t/p/w500/3DzePKMbLMIM636S6syCy3cLPqj.jpg",
+    "year": "2002",
+    "release_date": "2002-09-17",
+    "rating": 8.4,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "overview": "The true story of pianist Władysław Szpilman's experiences in Warsaw during the Nazi occupation. When the Jews of the city find themselves forced into a ghetto, Szpilman finds work playing in a café; and when his family is deported in 1942, he stays behind, works for a while as a laborer, and eventually goes into hiding in the ruins of the war-torn city.",
+    "runtime": 150,
+    "episodes": null,
+    "cast": [
+      "Adrien Brody",
+      "Thomas Kretschmann",
+      "Frank Finlay"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Roman Polanski"
+    ],
+    "writers": [
+      "Ronald Harwood",
+      "Władysław Szpilman"
+    ],
+    "certification": "R",
+    "trailer_yt": "u_jE7-6Uv7E",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=The%20Pianist",
+    "tagline": "Music was his passion. Survival was his masterpiece.",
+    "slug": "the-pianist-16"
+  },
+  {
+    "id": 17,
+    "type": "movie",
+    "title": "Spirited Away",
+    "poster": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "year": "2001",
+    "release_date": "2001-07-20",
+    "rating": 8.5,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "runtime": 125,
+    "episodes": null,
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Hayao Miyazaki"
+    ],
+    "writers": [
+      "Hayao Miyazaki"
+    ],
+    "certification": "PG",
+    "trailer_yt": "ByXuk9QqQkk",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Spirited%20Away",
+    "tagline": "",
+    "slug": "spirited-away-17"
+  },
+  {
+    "id": 18,
+    "type": "movie",
+    "title": "Your Name.",
+    "poster": "https://image.tmdb.org/t/p/w500/q719jXXEzOoYaps6babgKnONONX.jpg",
+    "year": "2016",
+    "release_date": "2016-08-26",
+    "rating": 8.6,
+    "genres": [
+      "Romance",
+      "Animation",
+      "Drama"
+    ],
+    "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+    "runtime": 106,
+    "episodes": null,
+    "cast": [
+      "Ryunosuke Kamiki",
+      "Mone Kamishiraishi",
+      "Ryō Narita"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Makoto Shinkai"
+    ],
+    "writers": [
+      "Makoto Shinkai"
+    ],
+    "certification": "PG",
+    "trailer_yt": "xU47nhruN-Q",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Your%20Name.",
+    "tagline": "",
+    "slug": "your-name-18"
+  },
+  {
+    "id": 19,
+    "type": "movie",
+    "title": "Weathering with You",
+    "poster": "https://image.tmdb.org/t/p/w500/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg",
+    "year": "2019",
+    "release_date": "2019-06-19",
+    "rating": 8.2,
+    "genres": [
+      "Animation",
+      "Romance",
+      "Fantasy",
+      "Drama"
+    ],
+    "overview": "The summer of his high school freshman year, Hodaka runs away from his remote island home to Tokyo, and quickly finds himself pushed to his financial and personal limits. The weather is unusually gloomy and rainy every day, as if taking its cue from his life. After many days of solitude, he finally finds work as a freelance writer for a mysterious occult magazine. Then, one day, Hodaka meets Hina on a busy street corner. This bright and strong-willed girl possesses a strange and wonderful ability: the power to stop the rain and clear the sky.",
+    "runtime": 112,
+    "episodes": null,
+    "cast": [
+      "Kotaro Daigo",
+      "Nana Mori",
+      "Tsubasa Honda"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Makoto Shinkai"
+    ],
+    "writers": [
+      "Makoto Shinkai"
+    ],
+    "certification": "PG-13",
+    "trailer_yt": "Q6iK6DjV_iE",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Weathering%20with%20You",
+    "tagline": "A story about the secret of this world that only I and she know.",
+    "slug": "weathering-with-you-19"
+  },
+  {
+    "id": 20,
+    "type": "movie",
+    "title": "Howl's Moving Castle",
+    "poster": "https://image.tmdb.org/t/p/w500/TkTPELv4kC3u1lkloush8skOjE.jpg",
+    "year": "2004",
+    "release_date": "2004-11-19",
+    "rating": 8.4,
+    "genres": [
+      "Fantasy",
+      "Animation",
+      "Adventure"
+    ],
+    "overview": "When Sophie, a shy young woman, is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+    "runtime": 119,
+    "episodes": null,
+    "cast": [
+      "Chieko Baisho",
+      "Takuya Kimura",
+      "Akihiro Miwa"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Hayao Miyazaki"
+    ],
+    "writers": [
+      "Hayao Miyazaki",
+      "Diana Wynne Jones"
+    ],
+    "certification": "PG",
+    "trailer_yt": "iwROgK94zcM",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Howl%27s%20Moving%20Castle",
+    "tagline": "The two lived there.",
+    "slug": "howl-s-moving-castle-20"
+  },
+  {
+    "id": 21,
+    "type": "movie",
+    "title": "Coco",
+    "poster": "https://image.tmdb.org/t/p/w500/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
+    "year": "2017",
+    "release_date": "2017-10-27",
+    "rating": 8.2,
+    "genres": [
+      "Family",
+      "Animation",
+      "Fantasy",
+      "Music",
+      "Comedy",
+      "Adventure"
+    ],
+    "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+    "runtime": 105,
+    "episodes": null,
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael García Bernal",
+      "Benjamin Bratt"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Lee Unkrich"
+    ],
+    "writers": [
+      "Lee Unkrich",
+      "Matthew Aldrich",
+      "Jason Katz"
+    ],
+    "certification": "PG",
+    "trailer_yt": "xlnPHQ3TLX8",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Coco",
+    "tagline": "The celebration of a lifetime",
+    "slug": "coco-21"
+  },
+  {
+    "id": 22,
+    "type": "movie",
+    "title": "The Lion King",
+    "poster": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+    "year": "1994",
+    "release_date": "1994-06-23",
+    "rating": 8.3,
+    "genres": [
+      "Family",
+      "Animation",
+      "Drama"
+    ],
+    "overview": "A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days. But when his past comes to haunt him, the young prince must decide his fate: Will he remain an outcast or face his demons and become what he needs to be?",
+    "runtime": 89,
+    "episodes": null,
+    "cast": [
+      "Matthew Broderick",
+      "James Earl Jones",
+      "Jeremy Irons"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Roger Allers",
+      "Rob Minkoff"
+    ],
+    "writers": [
+      "Joe Ranft",
+      "Jonathan Roberts",
+      "Jim Capobianco"
+    ],
+    "certification": "G",
+    "trailer_yt": "4sj1MT05lAA",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=The%20Lion%20King",
+    "tagline": "Life's greatest adventure is finding your place in the Circle of Life.",
+    "slug": "the-lion-king-22"
+  },
+  {
+    "id": 23,
+    "type": "movie",
+    "title": "Toy Story 4",
+    "poster": "https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+    "year": "2019",
+    "release_date": "2019-06-19",
+    "rating": 7.6,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Drama"
+    ],
+    "overview": "Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that's Andy or Bonnie. But when Bonnie adds a reluctant new toy called \"Forky\" to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.",
+    "runtime": 100,
+    "episodes": null,
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Annie Potts"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Josh Cooley"
+    ],
+    "writers": [
+      "Andrew Stanton",
+      "John Lasseter",
+      "Martin Hynes"
+    ],
+    "certification": "G",
+    "trailer_yt": "wmiIUN-7qhE",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Toy%20Story%204",
+    "tagline": "Get Ready to Hit the Road",
+    "slug": "toy-story-4-23"
+  },
+  {
+    "id": 24,
+    "type": "movie",
+    "title": "Frozen",
+    "poster": "https://image.tmdb.org/t/p/w500/yald8Lsb4uCRvjIH3spzR84Kdwf.jpg",
+    "year": "2013",
+    "release_date": "2013-11-20",
+    "rating": 7.3,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "overview": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa’s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
+    "runtime": 102,
+    "episodes": null,
+    "cast": [
+      "Kristen Bell",
+      "Idina Menzel",
+      "Jonathan Groff"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Chris Buck",
+      "Jennifer Lee"
+    ],
+    "writers": [
+      "Chris Buck",
+      "Hans Christian Andersen",
+      "Shane Morris"
+    ],
+    "certification": "PG",
+    "trailer_yt": "TbQm5doF_Uc",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Frozen",
+    "tagline": "Only the act of true love will thaw a frozen heart.",
+    "slug": "frozen-24"
+  },
+  {
+    "id": 25,
+    "type": "movie",
+    "title": "Frozen II",
+    "poster": "https://image.tmdb.org/t/p/w500/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+    "year": "2019",
+    "release_date": "2019-11-20",
+    "rating": 7.3,
+    "genres": [
+      "Family",
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
+    "runtime": 103,
+    "episodes": null,
+    "cast": [
+      "Kristen Bell",
+      "Idina Menzel",
+      "Josh Gad"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Chris Buck",
+      "Jennifer Lee"
+    ],
+    "writers": [
+      "Chris Buck",
+      "Hans Christian Andersen",
+      "Allison Schroeder"
+    ],
+    "certification": "PG",
+    "trailer_yt": "Zi4LMpSDccc",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Frozen%20II",
+    "tagline": "The past is not what it seems.",
+    "slug": "frozen-ii-25"
+  },
+  {
+    "id": 26,
+    "type": "movie",
+    "title": "Shrek",
+    "poster": "https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+    "year": "2001",
+    "release_date": "2001-05-18",
+    "rating": 7.6,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Fantasy",
+      "Adventure"
+    ],
+    "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+    "runtime": 90,
+    "episodes": null,
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Andrew Adamson",
+      "Vicky Jenson"
+    ],
+    "writers": [
+      "Ted Elliott",
+      "Terry Rossio",
+      "William Steig"
+    ],
+    "certification": "PG",
+    "trailer_yt": "W37DlG1i61s",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Shrek",
+    "tagline": "The greatest fairy tale never told.",
+    "slug": "shrek-26"
+  },
+  {
+    "id": 27,
+    "type": "movie",
+    "title": "Monsters, Inc.",
+    "poster": "https://image.tmdb.org/t/p/w500/sgheSKxZkttIe8ONsf2sWXPgip3.jpg",
+    "year": "2001",
+    "release_date": "2001-11-01",
+    "rating": 7.8,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "James Sullivan and Mike Wazowski are monsters, they earn their living scaring children and are the best in the business... even though they're more afraid of the children than they are of them. When a child accidentally enters their world, James and Mike suddenly find that kids are not to be afraid of and they uncover a conspiracy that could threaten all children across the world.",
+    "runtime": 92,
+    "episodes": null,
+    "cast": [
+      "John Goodman",
+      "Billy Crystal",
+      "Mary Gibbs"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Pete Docter"
+    ],
+    "writers": [
+      "Andrew Stanton",
+      "Jill Culton",
+      "Jeff Pidgeon"
+    ],
+    "certification": "G",
+    "trailer_yt": "8IBNZ6O2kMk",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Monsters%2C%20Inc.",
+    "tagline": "We Scare Because We Care.",
+    "slug": "monsters-inc-27"
+  },
+  {
+    "id": 28,
+    "type": "movie",
+    "title": "Kubo and the Two Strings",
+    "poster": "https://image.tmdb.org/t/p/w500/la6QA9tk4Foq8OBH2Dyh5dTcw6H.jpg",
+    "year": "2016",
+    "release_date": "2016-08-18",
+    "rating": 7.7,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "overview": "Kubo mesmerizes the people in his village with his magical gift for spinning wild tales with origami. When he accidentally summons an evil spirit seeking vengeance, Kubo is forced to go on a quest to solve the mystery of his fallen samurai father and his mystical weaponry, as well as discover his own magical powers.",
+    "runtime": 102,
+    "episodes": null,
+    "cast": [
+      "Art Parkinson",
+      "Charlize Theron",
+      "Brenda Vaccaro"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Travis Knight"
+    ],
+    "writers": [
+      "Chris Butler",
+      "Marc Haimes",
+      "Shannon Tindle"
+    ],
+    "certification": "PG",
+    "trailer_yt": "vex0gPFnBvM",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Kubo%20and%20the%20Two%20Strings",
+    "tagline": "The quest begins",
+    "slug": "kubo-and-the-two-strings-28"
+  },
+  {
+    "id": 29,
+    "type": "movie",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "poster": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+    "year": "2018",
+    "release_date": "2018-12-06",
+    "rating": 8.4,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Science Fiction",
+      "Comedy"
+    ],
+    "overview": "Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson \"Kingpin\" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.",
+    "runtime": 117,
+    "episodes": null,
+    "cast": [
+      "Shameik Moore",
+      "Jake Johnson",
+      "Hailee Steinfeld"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Rodney Rothman",
+      "Peter Ramsey",
+      "Bob Persichetti"
+    ],
+    "writers": [
+      "Stan Lee",
+      "Steve Ditko",
+      "Sharon Bridgeman"
+    ],
+    "certification": "PG",
+    "trailer_yt": "tg52up16eq0",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Spider-Man%3A%20Into%20the%20Spider-Verse",
+    "tagline": "More Than One Wears the Mask",
+    "slug": "spider-man-into-the-spider-verse-29"
+  },
+  {
+    "id": 30,
+    "type": "movie",
+    "title": "Godzilla vs. Kong",
+    "poster": "https://image.tmdb.org/t/p/w500/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+    "year": "2021",
+    "release_date": "2021-03-24",
+    "rating": 8.4,
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "overview": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
+    "runtime": 113,
+    "episodes": null,
+    "cast": [
+      "Alexander Skarsgård",
+      "Millie Bobby Brown",
+      "Rebecca Hall"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Adam Wingard"
+    ],
+    "writers": [
+      "Terry Rossio",
+      "Michael Dougherty",
+      "Eric Pearson"
+    ],
+    "certification": "PG-13",
+    "trailer_yt": "odM92ap8_c0",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Godzilla%20vs.%20Kong",
+    "tagline": "One Will Fall",
+    "slug": "godzilla-vs-kong-30"
+  },
+  {
+    "id": 31,
+    "type": "movie",
+    "title": "Zack Snyder's Justice League",
+    "poster": "https://image.tmdb.org/t/p/w500/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+    "year": "2021",
+    "release_date": "2021-03-18",
+    "rating": 8.6,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+    "runtime": 242,
+    "episodes": null,
+    "cast": [
+      "Ben Affleck",
+      "Henry Cavill",
+      "Gal Gadot"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Zack Snyder"
+    ],
+    "writers": [
+      "Bob Kane",
+      "Zack Snyder",
+      "Jack Kirby"
+    ],
+    "certification": "R",
+    "trailer_yt": "vM-Bja2Gy04",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Zack%20Snyder%27s%20Justice%20League",
+    "tagline": "",
+    "slug": "zack-snyder-s-justice-league-31"
+  },
+  {
+    "id": 32,
+    "type": "movie",
+    "title": "Raya and the Last Dragon",
+    "poster": "https://image.tmdb.org/t/p/w500/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg",
+    "year": "2021",
+    "release_date": "2021-03-03",
+    "rating": 8.3,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Fantasy",
+      "Family",
+      "Action"
+    ],
+    "overview": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
+    "runtime": 107,
+    "episodes": null,
+    "cast": [
+      "Kelly Marie Tran",
+      "Awkwafina",
+      "Izaac Wang"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Don Hall",
+      "Carlos López Estrada"
+    ],
+    "writers": [
+      "Don Hall",
+      "Kiel Murray",
+      "Adele Lim"
+    ],
+    "certification": "PG",
+    "trailer_yt": "9BPMTr-NS9s",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Raya%20and%20the%20Last%20Dragon",
+    "tagline": "A quest to save her world.",
+    "slug": "raya-and-the-last-dragon-32"
+  },
+  {
+    "id": 33,
+    "type": "movie",
+    "title": "Tenet",
+    "poster": "https://image.tmdb.org/t/p/w500/k68nPLbIST6NP96JmTxmZijEvCA.jpg",
+    "year": "2020",
+    "release_date": "2020-08-22",
+    "rating": 7.3,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "overview": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+    "runtime": 150,
+    "episodes": null,
+    "cast": [
+      "John David Washington",
+      "Robert Pattinson",
+      "Elizabeth Debicki"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Christopher Nolan"
+    ],
+    "writers": [
+      "Christopher Nolan"
+    ],
+    "certification": "PG-13",
+    "trailer_yt": "LdOM0x0XDMo",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Tenet",
+    "tagline": "Time runs out.",
+    "slug": "tenet-33"
+  },
+  {
+    "id": 34,
+    "type": "movie",
+    "title": "Joker",
+    "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "year": "2019",
+    "release_date": "2019-10-02",
+    "rating": 8.2,
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+    "runtime": 122,
+    "episodes": null,
+    "cast": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Todd Phillips"
+    ],
+    "writers": [
+      "Scott Silver",
+      "Bob Kane",
+      "Todd Phillips"
+    ],
+    "certification": "R",
+    "trailer_yt": "t433PEQGErc",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Joker",
+    "tagline": "Put on a happy face.",
+    "slug": "joker-34"
+  },
+  {
+    "id": 35,
+    "type": "movie",
+    "title": "Avengers: Infinity War",
+    "poster": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "year": "2018",
+    "release_date": "2018-04-25",
+    "rating": 8.3,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+    "runtime": 149,
+    "episodes": null,
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Chris Evans"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "writers": [
+      "Christopher Markus",
+      "Stephen McFeely",
+      "Jack Kirby"
+    ],
+    "certification": "PG-13",
+    "trailer_yt": "6ZfuNTqbHE8",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Avengers%3A%20Infinity%20War",
+    "tagline": "An entire universe. Once and for all.",
+    "slug": "avengers-infinity-war-35"
+  },
+  {
+    "id": 36,
+    "type": "movie",
+    "title": "Avengers: Endgame",
+    "poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+    "year": "2019",
+    "release_date": "2019-04-24",
+    "rating": 8.3,
+    "genres": [
+      "Adventure",
+      "Science Fiction",
+      "Action"
+    ],
+    "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+    "runtime": 181,
+    "episodes": null,
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "writers": [
+      "Christopher Markus",
+      "Stephen McFeely",
+      "Stan Lee"
+    ],
+    "certification": "PG-13",
+    "trailer_yt": "TcMBFSGVi1c",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Avengers%3A%20Endgame",
+    "tagline": "Part of the journey is the end.",
+    "slug": "avengers-endgame-36"
+  },
+  {
+    "id": 37,
+    "type": "movie",
+    "title": "Spider-Man: Far from Home",
+    "poster": "https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+    "year": "2019",
+    "release_date": "2019-06-28",
+    "rating": 7.5,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+    "runtime": 129,
+    "episodes": null,
+    "cast": [
+      "Tom Holland",
+      "Samuel L. Jackson",
+      "Jake Gyllenhaal"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Jon Watts"
+    ],
+    "writers": [
+      "Stan Lee",
+      "Steve Ditko",
+      "Chris McKenna"
+    ],
+    "certification": "PG-13",
+    "trailer_yt": "LFoz8ZJWmPs",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Spider-Man%3A%20Far%20from%20Home",
+    "tagline": "It’s time to step up.",
+    "slug": "spider-man-far-from-home-37"
+  },
+  {
+    "id": 38,
+    "type": "movie",
+    "title": "Spider-Man: Homecoming",
+    "poster": "https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+    "year": "2017",
+    "release_date": "2017-07-05",
+    "rating": 7.4,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction",
+      "Drama"
+    ],
+    "overview": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+    "runtime": 133,
+    "episodes": null,
+    "cast": [
+      "Tom Holland",
+      "Michael Keaton",
+      "Robert Downey Jr."
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Jon Watts"
+    ],
+    "writers": [
+      "Stan Lee",
+      "Steve Ditko",
+      "John Francis Daley"
+    ],
+    "certification": "PG-13",
+    "trailer_yt": "lCkVr1n1eCA",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Spider-Man%3A%20Homecoming",
+    "tagline": "Homework can wait. The city can't.",
+    "slug": "spider-man-homecoming-38"
+  },
+  {
+    "id": 39,
+    "type": "movie",
+    "title": "Black Panther",
+    "poster": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "year": "2018",
+    "release_date": "2018-02-13",
+    "rating": 7.4,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+    "runtime": 134,
+    "episodes": null,
+    "cast": [
+      "Chadwick Boseman",
+      "Michael B. Jordan",
+      "Lupita Nyong'o"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Ryan Coogler"
+    ],
+    "writers": [
+      "Stan Lee",
+      "Jack Kirby",
+      "Ryan Coogler"
+    ],
+    "certification": "PG-13",
+    "trailer_yt": "xjDjIWPwcPU",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Black%20Panther",
+    "tagline": "Long live the king.",
+    "slug": "black-panther-39"
+  },
+  {
+    "id": 40,
+    "type": "movie",
+    "title": "Wonder Woman",
+    "poster": "https://image.tmdb.org/t/p/w500/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg",
+    "year": "2009",
+    "release_date": "2009-03-03",
+    "rating": 7.3,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "On the mystical island of Themyscira, a proud and fierce warrior race of Amazons have raised a daughter of untold beauty, grace and strength: Princess Diana. When an Army fighter pilot, Steve Trevor, crash-lands on the island, the rebellious and headstrong Diana defies Amazonian law by accompanying Trevor back to civilization.",
+    "runtime": 74,
+    "episodes": null,
+    "cast": [
+      "Keri Russell",
+      "David McCallum",
+      "Alfred Molina"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Lauren Montgomery"
+    ],
+    "writers": [
+      "Michael Jelenic",
+      "Gail Simone",
+      "Jay Oliva"
+    ],
+    "certification": "PG-13",
+    "trailer_yt": "kIF-uZhCeIc",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Wonder%20Woman",
+    "tagline": "Courageous princess. Fierce warrior. Legendary superhero.",
+    "slug": "wonder-woman-40"
+  },
+  {
+    "id": 41,
+    "type": "movie",
+    "title": "Thor: Ragnarok",
+    "poster": "https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+    "year": "2017",
+    "release_date": "2017-10-25",
+    "rating": 7.6,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+    "runtime": 131,
+    "episodes": null,
+    "cast": [
+      "Chris Hemsworth",
+      "Tom Hiddleston",
+      "Cate Blanchett"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Taika Waititi"
+    ],
+    "writers": [
+      "Stan Lee",
+      "Jack Kirby",
+      "Larry Lieber"
+    ],
+    "certification": "PG-13",
+    "trailer_yt": "ue80QwXMRHg",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Thor%3A%20Ragnarok",
+    "tagline": "No Hammer. No Problem.",
+    "slug": "thor-ragnarok-41"
+  },
+  {
+    "id": 42,
+    "type": "movie",
+    "title": "Doctor Strange",
+    "poster": "https://image.tmdb.org/t/p/w500/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg",
+    "year": "2016",
+    "release_date": "2016-10-25",
+    "rating": 7.4,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+    "runtime": 115,
+    "episodes": null,
+    "cast": [
+      "Benedict Cumberbatch",
+      "Chiwetel Ejiofor",
+      "Rachel McAdams"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Scott Derrickson"
+    ],
+    "writers": [
+      "Stan Lee",
+      "Steve Ditko",
+      "Scott Derrickson"
+    ],
+    "certification": "PG-13",
+    "trailer_yt": "HSzx-zryEgM",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Doctor%20Strange",
+    "tagline": "Open your mind. Change your reality.",
+    "slug": "doctor-strange-42"
+  },
+  {
+    "id": 43,
+    "type": "movie",
+    "title": "Deadpool",
+    "poster": "https://image.tmdb.org/t/p/w500/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg",
+    "year": "2016",
+    "release_date": "2016-02-09",
+    "rating": 7.6,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "overview": "Deadpool tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+    "runtime": 108,
+    "episodes": null,
+    "cast": [
+      "Ryan Reynolds",
+      "Karan Soni",
+      "Ed Skrein"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Tim Miller"
+    ],
+    "writers": [
+      "Rhett Reese",
+      "Paul Wernick",
+      "Jay Oliva"
+    ],
+    "certification": "R",
+    "trailer_yt": "FyKWUTwSYAs",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Deadpool",
+    "tagline": "Witness the beginning of a happy ending",
+    "slug": "deadpool-43"
+  },
+  {
+    "id": 44,
+    "type": "movie",
+    "title": "Deadpool 2",
+    "poster": "https://image.tmdb.org/t/p/w500/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+    "year": "2018",
+    "release_date": "2018-05-10",
+    "rating": 7.5,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Adventure"
+    ],
+    "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+    "runtime": 119,
+    "episodes": null,
+    "cast": [
+      "Ryan Reynolds",
+      "Josh Brolin",
+      "Morena Baccarin"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "David Leitch"
+    ],
+    "writers": [
+      "Rhett Reese",
+      "Ryan Reynolds",
+      "Paul Wernick"
+    ],
+    "certification": "R",
+    "trailer_yt": "D86RtevtfrA",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Deadpool%202",
+    "tagline": "Prepare for the Second Coming.",
+    "slug": "deadpool-2-44"
+  },
+  {
+    "id": 45,
+    "type": "movie",
+    "title": "Captain America: Civil War",
+    "poster": "https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+    "year": "2016",
+    "release_date": "2016-04-27",
+    "rating": 7.4,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+    "runtime": 147,
+    "episodes": null,
+    "cast": [
+      "Chris Evans",
+      "Robert Downey Jr.",
+      "Scarlett Johansson"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "writers": [
+      "Christopher Markus",
+      "Stephen McFeely",
+      "Jack Kirby"
+    ],
+    "certification": "PG-13",
+    "trailer_yt": "dKrVegVI0Us",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Captain%20America%3A%20Civil%20War",
+    "tagline": "Divided We Fall",
+    "slug": "captain-america-civil-war-45"
+  },
+  {
+    "id": 46,
+    "type": "movie",
+    "title": "Avengers: Age of Ultron",
+    "poster": "https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+    "year": "2015",
+    "release_date": "2015-04-22",
+    "rating": 7.3,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+    "runtime": 141,
+    "episodes": null,
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Joss Whedon"
+    ],
+    "writers": [
+      "Stan Lee",
+      "Joss Whedon",
+      "Jack Kirby"
+    ],
+    "certification": "PG-13",
+    "trailer_yt": "MZoO8QVMxkk",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Avengers%3A%20Age%20of%20Ultron",
+    "tagline": "A New Age Has Come.",
+    "slug": "avengers-age-of-ultron-46"
+  },
+  {
+    "id": 47,
+    "type": "movie",
+    "title": "The Avengers",
+    "poster": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+    "year": "2012",
+    "release_date": "2012-04-25",
+    "rating": 7.7,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+    "runtime": 143,
+    "episodes": null,
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Joss Whedon"
+    ],
+    "writers": [
+      "Stan Lee",
+      "Joss Whedon",
+      "Zak Penn"
+    ],
+    "certification": "PG-13",
+    "trailer_yt": "eOrNdBpGMv8",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=The%20Avengers",
+    "tagline": "Some assembly required.",
+    "slug": "the-avengers-47"
+  },
+  {
+    "id": 48,
+    "type": "movie",
+    "title": "Ready Player One",
+    "poster": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+    "year": "2018",
+    "release_date": "2018-03-28",
+    "rating": 7.6,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "overview": "When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.",
+    "runtime": 140,
+    "episodes": null,
+    "cast": [
+      "Tye Sheridan",
+      "Olivia Cooke",
+      "Ben Mendelsohn"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Steven Spielberg"
+    ],
+    "writers": [
+      "Zak Penn",
+      "Ernest Cline"
+    ],
+    "certification": "PG-13",
+    "trailer_yt": "cSp1dM2Vj48",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Ready%20Player%20One",
+    "tagline": "A better reality awaits.",
+    "slug": "ready-player-one-48"
+  },
+  {
+    "id": 49,
+    "type": "movie",
+    "title": "Interstellar",
+    "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "year": "2014",
+    "release_date": "2014-11-05",
+    "rating": 8.3,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "runtime": 169,
+    "episodes": null,
+    "cast": [
+      "Matthew McConaughey",
+      "Jessica Chastain",
+      "Anne Hathaway"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Christopher Nolan"
+    ],
+    "writers": [
+      "Christopher Nolan",
+      "Jonathan Nolan"
+    ],
+    "certification": "PG-13",
+    "trailer_yt": "2LqzF5WauAw",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Interstellar",
+    "tagline": "Mankind was born on Earth. It was never meant to die here.",
+    "slug": "interstellar-49"
+  },
+  {
+    "id": 50,
+    "type": "movie",
+    "title": "Parasite",
+    "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "year": "2019",
+    "release_date": "2019-05-30",
+    "rating": 8.5,
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "runtime": 133,
+    "episodes": null,
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Bong Joon-ho"
+    ],
+    "writers": [
+      "Bong Joon-ho",
+      "Kim Dae-hwan",
+      "Han Jin-won"
+    ],
+    "certification": "R",
+    "trailer_yt": "isOGD_7hNIY",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Parasite",
+    "tagline": "Act like you own the place.",
+    "slug": "parasite-50"
+  },
+  {
+    "id": 51,
+    "type": "movie",
+    "title": "Ford v Ferrari",
+    "poster": "https://image.tmdb.org/t/p/w500/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+    "year": "2019",
+    "release_date": "2019-11-13",
+    "rating": 8,
+    "genres": [
+      "Drama",
+      "Action",
+      "History"
+    ],
+    "overview": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
+    "runtime": 153,
+    "episodes": null,
+    "cast": [
+      "Matt Damon",
+      "Christian Bale",
+      "Jon Bernthal"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "James Mangold"
+    ],
+    "writers": [
+      "Jez Butterworth",
+      "John-Henry Butterworth",
+      "Jason Keller"
+    ],
+    "certification": "PG-13",
+    "trailer_yt": "zyYgDtY2AMY",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Ford%20v%20Ferrari",
+    "tagline": "They took the American dream for a ride",
+    "slug": "ford-v-ferrari-51"
+  },
+  {
+    "id": 52,
+    "type": "movie",
+    "title": "Hacksaw Ridge",
+    "poster": "https://image.tmdb.org/t/p/w500/fTuxNlgEm04PPFkr1xfK94Jn8BW.jpg",
+    "year": "2016",
+    "release_date": "2016-10-07",
+    "rating": 8.1,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
+    "runtime": 139,
+    "episodes": null,
+    "cast": [
+      "Andrew Garfield",
+      "Sam Worthington",
+      "Vince Vaughn"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Mel Gibson"
+    ],
+    "writers": [
+      "Robert Schenkkan",
+      "Andrew Knight"
+    ],
+    "certification": "R",
+    "trailer_yt": "s2-1hz1juBI",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Hacksaw%20Ridge",
+    "tagline": "One of the greatest heroes in American history never fired a bullet.",
+    "slug": "hacksaw-ridge-52"
+  },
+  {
+    "id": 53,
+    "type": "movie",
+    "title": "Sonic the Hedgehog",
+    "poster": "https://image.tmdb.org/t/p/w500/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+    "year": "2020",
+    "release_date": "2020-02-12",
+    "rating": 7.5,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgehog tells the story of the world’s speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination.",
+    "runtime": 99,
+    "episodes": null,
+    "cast": [
+      "Ben Schwartz",
+      "James Marsden",
+      "Jim Carrey"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Jeff Fowler"
+    ],
+    "writers": [
+      "Josh Miller",
+      "Patrick Casey",
+      "Naoto Oshima"
+    ],
+    "certification": "PG",
+    "trailer_yt": "szby7ZHLnkA",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Sonic%20the%20Hedgehog",
+    "tagline": "A Whole New Speed of Hero",
+    "slug": "sonic-the-hedgehog-53"
+  },
+  {
+    "id": 54,
+    "type": "movie",
+    "title": "John Wick: Chapter 3 - Parabellum",
+    "poster": "https://image.tmdb.org/t/p/w500/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
+    "year": "2019",
+    "release_date": "2019-05-15",
+    "rating": 7.4,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "overview": "Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.",
+    "runtime": 130,
+    "episodes": null,
+    "cast": [
+      "Keanu Reeves",
+      "Halle Berry",
+      "Laurence Fishburne"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Chad Stahelski"
+    ],
+    "writers": [
+      "Derek Kolstad",
+      "Chris Collins",
+      "Marc Abrams"
+    ],
+    "certification": "R",
+    "trailer_yt": "M7XM597XO94",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=John%20Wick%3A%20Chapter%203%20-%20Parabellum",
+    "tagline": "The Grace Period Is Over",
+    "slug": "john-wick-chapter-3-parabellum-54"
+  },
+  {
+    "id": 55,
+    "type": "movie",
+    "title": "The Hobbit: The Battle of the Five Armies",
+    "poster": "https://image.tmdb.org/t/p/w500/xT98tLqatZPQApyRmlPL12LtiWp.jpg",
+    "year": "2014",
+    "release_date": "2014-12-10",
+    "rating": 7.3,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "overview": "Immediately after the events of The Desolation of Smaug, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
+    "runtime": 144,
+    "episodes": null,
+    "cast": [
+      "Ian McKellen",
+      "Martin Freeman",
+      "Richard Armitage"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Peter Jackson"
+    ],
+    "writers": [
+      "Peter Jackson",
+      "J.R.R. Tolkien",
+      "Fran Walsh"
+    ],
+    "certification": "PG-13",
+    "trailer_yt": "Y6Fv5StfAxA",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=The%20Hobbit%3A%20The%20Battle%20of%20the%20Five%20Armies",
+    "tagline": "Witness the defining chapter of the Middle-Earth saga",
+    "slug": "the-hobbit-the-battle-of-the-five-armies-55"
+  },
+  {
+    "id": 56,
+    "type": "movie",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "poster": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+    "year": "2001",
+    "release_date": "2001-11-16",
+    "rating": 7.9,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard -- with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths -- and about the villain who's to blame.",
+    "runtime": 152,
+    "episodes": null,
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Chris Columbus"
+    ],
+    "writers": [
+      "J.K. Rowling",
+      "Steve Kloves"
+    ],
+    "certification": "PG",
+    "trailer_yt": "PbdM1db3JbY",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Harry%20Potter%20and%20the%20Philosopher%27s%20Stone",
+    "tagline": "Let the Magic Begin.",
+    "slug": "harry-potter-and-the-philosopher-s-stone-56"
+  },
+  {
+    "id": 57,
+    "type": "movie",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "poster": "https://image.tmdb.org/t/p/w500/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+    "year": "2004",
+    "release_date": "2004-05-31",
+    "rating": 8,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "overview": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
+    "runtime": 141,
+    "episodes": null,
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Alfonso Cuarón"
+    ],
+    "writers": [
+      "J.K. Rowling",
+      "Steve Kloves",
+      "Enfys Dickinson"
+    ],
+    "certification": "PG",
+    "trailer_yt": "R69laoH02xg",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban",
+    "tagline": "Something wicked this way comes.",
+    "slug": "harry-potter-and-the-prisoner-of-azkaban-57"
+  },
+  {
+    "id": 58,
+    "type": "movie",
+    "title": "Call Me by Your Name",
+    "poster": "https://image.tmdb.org/t/p/w500/tcNniniS4rfqrLH0oORikJfnIwY.jpg",
+    "year": "2017",
+    "release_date": "2017-09-01",
+    "rating": 8.3,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "overview": "In 1980s Italy, a relationship begins between seventeen-year-old teenage Elio and the older adult man hired as his father's research assistant.",
+    "runtime": 132,
+    "episodes": null,
+    "cast": [
+      "Armie Hammer",
+      "Timothée Chalamet",
+      "Michael Stuhlbarg"
+    ],
+    "crew_label": "Director",
+    "crew": [
+      "Luca Guadagnino"
+    ],
+    "writers": [
+      "James Ivory",
+      "André Aciman",
+      "Xerxes Pordely"
+    ],
+    "certification": "R",
+    "trailer_yt": "Z9AYPxH5NTM",
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Call%20Me%20by%20Your%20Name",
+    "tagline": "Is it better to speak or die?",
+    "slug": "call-me-by-your-name-58"
+  },
+  {
+    "id": 59,
+    "type": "anime",
+    "title": "Sousou no Frieren",
+    "poster": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
+    "year": "2023",
+    "release_date": null,
+    "rating": 9.1,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Science Fiction",
+      "Drama"
+    ],
+    "overview": "Sousou no Frieren — Tv series, 28 episodes. Produced by Madhouse Inc..",
+    "runtime": null,
+    "episodes": 28,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Madhouse Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Sousou%20no%20Frieren",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/17617",
+    "slug": "sousou-no-frieren-59"
+  },
+  {
+    "id": 60,
+    "type": "anime",
+    "title": "Shingeki no Kyojin",
+    "poster": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+    "year": "2013",
+    "release_date": null,
+    "rating": 8.6,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Shingeki no Kyojin — Tv series, 25 episodes. Produced by Production I.G, Wit Studio, Inc..",
+    "runtime": null,
+    "episodes": 25,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Production I.G",
+      "Wit Studio, Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Shingeki%20no%20Kyojin",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/9541",
+    "slug": "shingeki-no-kyojin-60"
+  },
+  {
+    "id": 61,
+    "type": "anime",
+    "title": "One Piece",
+    "poster": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg",
+    "year": "1999",
+    "release_date": null,
+    "rating": 8.7,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "One Piece — Tv series, 1168 episodes. Produced by Toei Animation Co., Ltd..",
+    "runtime": null,
+    "episodes": 1168,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Toei Animation Co., Ltd."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=One%20Piece",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/69",
+    "slug": "one-piece-61"
+  },
+  {
+    "id": 62,
+    "type": "anime",
+    "title": "Naruto",
+    "poster": "https://cdn.myanimelist.net/images/anime/1141/142503.jpg",
+    "year": "2002",
+    "release_date": null,
+    "rating": 7.9,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Naruto — Tv series, 220 episodes. Produced by Pierrot Co., Ltd..",
+    "runtime": null,
+    "episodes": 220,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Pierrot Co., Ltd."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Naruto",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/239",
+    "slug": "naruto-62"
+  },
+  {
+    "id": 63,
+    "type": "anime",
+    "title": "Boku no Hero Academia",
+    "poster": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+    "year": "2016",
+    "release_date": null,
+    "rating": 8.1,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Drama"
+    ],
+    "overview": "Boku no Hero Academia — Tv series, 13 episodes. Produced by Bones Inc..",
+    "runtime": null,
+    "episodes": 13,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Bones Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Boku%20no%20Hero%20Academia",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/11739",
+    "slug": "boku-no-hero-academia-63"
+  },
+  {
+    "id": 64,
+    "type": "anime",
+    "title": "Fairy Tail",
+    "poster": "https://cdn.myanimelist.net/images/anime/5/18179.jpg",
+    "year": "2009",
+    "release_date": null,
+    "rating": 7.8,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Fairy Tail — Tv series, 175 episodes. Produced by A-1 Pictures Inc., Satelight Inc..",
+    "runtime": null,
+    "episodes": 175,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "A-1 Pictures Inc.",
+      "Satelight Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Fairy%20Tail",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/6662",
+    "slug": "fairy-tail-64"
+  },
+  {
+    "id": 65,
+    "type": "anime",
+    "title": "Death Note",
+    "poster": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
+    "year": "2006",
+    "release_date": null,
+    "rating": 8.7,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Science Fiction",
+      "Drama"
+    ],
+    "overview": "Death Note — Tv series, 37 episodes. Produced by Madhouse Inc..",
+    "runtime": null,
+    "episodes": 37,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Madhouse Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Death%20Note",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/4563",
+    "slug": "death-note-65"
+  },
+  {
+    "id": 66,
+    "type": "anime",
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "poster": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+    "year": "2009",
+    "release_date": null,
+    "rating": 9.0,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Fullmetal Alchemist: Brotherhood — Tv series, 64 episodes. Produced by Bones Inc..",
+    "runtime": null,
+    "episodes": 64,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Bones Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Fullmetal%20Alchemist%3A%20Brotherhood",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/6107",
+    "slug": "fullmetal-alchemist-brotherhood-66"
+  },
+  {
+    "id": 67,
+    "type": "anime",
+    "title": "Steins;Gate",
+    "poster": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+    "year": "2011",
+    "release_date": null,
+    "rating": 8.9,
+    "genres": [
+      "Adventure",
+      "Science Fiction",
+      "Drama",
+      "Comedy"
+    ],
+    "overview": "Steins;Gate — Tv series, 24 episodes. Produced by White Fox Co., Ltd..",
+    "runtime": null,
+    "episodes": 24,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "White Fox Co., Ltd."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Steins%3BGate",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/7729",
+    "slug": "steins-gate-67"
+  },
+  {
+    "id": 68,
+    "type": "anime",
+    "title": "Code Geass: Hangyaku no Lelouch",
+    "poster": "https://cdn.myanimelist.net/images/anime/1032/135088.jpg",
+    "year": "2006",
+    "release_date": null,
+    "rating": 8.7,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Drama",
+      "Thriller"
+    ],
+    "overview": "Code Geass: Hangyaku no Lelouch — Tv series, 25 episodes. Produced by Sunrise Inc..",
+    "runtime": null,
+    "episodes": 25,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Sunrise Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Code%20Geass%3A%20Hangyaku%20no%20Lelouch",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/4521",
+    "slug": "code-geass-hangyaku-no-lelouch-68"
+  },
+  {
+    "id": 69,
+    "type": "anime",
+    "title": "Hunter x Hunter",
+    "poster": "https://cdn.myanimelist.net/images/anime/1305/132237.jpg",
+    "year": "1999",
+    "release_date": null,
+    "rating": 8.4,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Drama"
+    ],
+    "overview": "Hunter x Hunter — Tv series, 62 episodes. Produced by Nippon Animation Co., Ltd..",
+    "runtime": null,
+    "episodes": 62,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Nippon Animation Co., Ltd."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Hunter%20x%20Hunter",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/132",
+    "slug": "hunter-x-hunter-69"
+  },
+  {
+    "id": 70,
+    "type": "anime",
+    "title": "Jujutsu Kaisen",
+    "poster": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+    "year": "2020",
+    "release_date": null,
+    "rating": 8.5,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Science Fiction",
+      "Drama"
+    ],
+    "overview": "Jujutsu Kaisen — Tv series, 24 episodes. Produced by Mappa Co., Ltd..",
+    "runtime": null,
+    "episodes": 24,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Mappa Co., Ltd."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Jujutsu%20Kaisen",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/15275",
+    "slug": "jujutsu-kaisen-70"
+  },
+  {
+    "id": 71,
+    "type": "anime",
+    "title": "Ore dake Level Up na Ken",
+    "poster": "https://cdn.myanimelist.net/images/anime/1801/142390.jpg",
+    "year": "2024",
+    "release_date": null,
+    "rating": 8.2,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Ore dake Level Up na Ken — Tv series, 12 episodes. Produced by A-1 Pictures Inc..",
+    "runtime": null,
+    "episodes": 12,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "A-1 Pictures Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Ore%20dake%20Level%20Up%20na%20Ken",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/17495",
+    "slug": "ore-dake-level-up-na-ken-71"
+  },
+  {
+    "id": 72,
+    "type": "anime",
+    "title": "Vinland Saga",
+    "poster": "https://cdn.myanimelist.net/images/anime/1500/103005.jpg",
+    "year": "2019",
+    "release_date": null,
+    "rating": 8.6,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Horror"
+    ],
+    "overview": "Vinland Saga — Tv series, 24 episodes. Produced by Wit Studio, Inc..",
+    "runtime": null,
+    "episodes": 24,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Wit Studio, Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Vinland%20Saga",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/13945",
+    "slug": "vinland-saga-72"
+  },
+  {
+    "id": 73,
+    "type": "anime",
+    "title": "Chainsaw Man",
+    "poster": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
+    "year": "2022",
+    "release_date": null,
+    "rating": 8.4,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Chainsaw Man — Tv series, 12 episodes. Produced by Mappa Co., Ltd..",
+    "runtime": null,
+    "episodes": 12,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Mappa Co., Ltd."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Chainsaw%20Man",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/15914",
+    "slug": "chainsaw-man-73"
+  },
+  {
+    "id": 74,
+    "type": "anime",
+    "title": "Spy x Family",
+    "poster": "https://cdn.myanimelist.net/images/anime/1441/122795.jpg",
+    "year": "2022",
+    "release_date": null,
+    "rating": 8.5,
+    "genres": [
+      "Action",
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "overview": "Spy x Family — Tv series, 12 episodes. Produced by Cloverworks Inc., Wit Studio, Inc..",
+    "runtime": null,
+    "episodes": 12,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Cloverworks Inc.",
+      "Wit Studio, Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Spy%20x%20Family",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/16947",
+    "slug": "spy-x-family-74"
+  },
+  {
+    "id": 75,
+    "type": "anime",
+    "title": "Tokyo Ghoul",
+    "poster": "https://cdn.myanimelist.net/images/anime/1498/134443.jpg",
+    "year": "2014",
+    "release_date": null,
+    "rating": 7.8,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Science Fiction",
+      "Drama"
+    ],
+    "overview": "Tokyo Ghoul — Tv series, 12 episodes. Produced by Pierrot Co., Ltd..",
+    "runtime": null,
+    "episodes": 12,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Pierrot Co., Ltd."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Tokyo%20Ghoul",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/10401",
+    "slug": "tokyo-ghoul-75"
+  },
+  {
+    "id": 76,
+    "type": "anime",
+    "title": "Bleach",
+    "poster": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg",
+    "year": "2004",
+    "release_date": null,
+    "rating": 8.0,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Bleach — Tv series, 366 episodes. Produced by Pierrot Co., Ltd..",
+    "runtime": null,
+    "episodes": 366,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Pierrot Co., Ltd."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Bleach",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/2369",
+    "slug": "bleach-76"
+  },
+  {
+    "id": 77,
+    "type": "anime",
+    "title": "Dragon Ball Z",
+    "poster": "https://cdn.myanimelist.net/images/anime/1277/142022.jpg",
+    "year": "1989",
+    "release_date": null,
+    "rating": 8.0,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Dragon Ball Z — Tv series, 291 episodes. Produced by Toei Animation Co., Ltd..",
+    "runtime": null,
+    "episodes": 291,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Toei Animation Co., Ltd."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Dragon%20Ball%20Z",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/1530",
+    "slug": "dragon-ball-z-77"
+  },
+  {
+    "id": 78,
+    "type": "anime",
+    "title": "Cowboy Bebop",
+    "poster": "https://cdn.myanimelist.net/images/anime/4/19644.jpg",
+    "year": "1998",
+    "release_date": null,
+    "rating": 8.6,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction",
+      "Drama"
+    ],
+    "overview": "Cowboy Bebop — Tv series, 26 episodes. Produced by Sunrise Inc..",
+    "runtime": null,
+    "episodes": 26,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Sunrise Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Cowboy%20Bebop",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/23",
+    "slug": "cowboy-bebop-78"
+  },
+  {
+    "id": 79,
+    "type": "anime",
+    "title": "Shinseiki Evangelion",
+    "poster": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
+    "year": "1995",
+    "release_date": null,
+    "rating": 8.3,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Drama",
+      "Comedy"
+    ],
+    "overview": "Shinseiki Evangelion — Tv series, 26 episodes. Produced by Gainax Co., Ltd., Tatsunoko Production Co., Ltd..",
+    "runtime": null,
+    "episodes": 26,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Gainax Co., Ltd.",
+      "Tatsunoko Production Co., Ltd."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Shinseiki%20Evangelion",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/22",
+    "slug": "shinseiki-evangelion-79"
+  },
+  {
+    "id": 80,
+    "type": "anime",
+    "title": "Violet Evergarden",
+    "poster": "https://cdn.myanimelist.net/images/anime/1795/95088.jpg",
+    "year": "2018",
+    "release_date": null,
+    "rating": 8.6,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Violet Evergarden — Tv series, 13 episodes. Produced by Kyoto Animation Co., Ltd..",
+    "runtime": null,
+    "episodes": 13,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Kyoto Animation Co., Ltd."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Violet%20Evergarden",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/12138",
+    "slug": "violet-evergarden-80"
+  },
+  {
+    "id": 81,
+    "type": "anime",
+    "title": "Shigatsu wa Kimi no Uso",
+    "poster": "https://cdn.myanimelist.net/images/anime/1405/143284.jpg",
+    "year": "2014",
+    "release_date": null,
+    "rating": 8.5,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance",
+      "Psychological"
+    ],
+    "overview": "Shigatsu wa Kimi no Uso — Tv series, 22 episodes. Produced by A-1 Pictures Inc..",
+    "runtime": null,
+    "episodes": 22,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "A-1 Pictures Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Shigatsu%20wa%20Kimi%20no%20Uso",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/10539",
+    "slug": "shigatsu-wa-kimi-no-uso-81"
+  },
+  {
+    "id": 82,
+    "type": "anime",
+    "title": "Haikyuu!!",
+    "poster": "https://cdn.myanimelist.net/images/anime/7/76014.jpg",
+    "year": "2014",
+    "release_date": null,
+    "rating": 8.5,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "School",
+      "Sports"
+    ],
+    "overview": "Haikyuu!! — Tv series, 25 episodes. Produced by Production I.G., Inc..",
+    "runtime": null,
+    "episodes": 25,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Production I.G., Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Haikyuu%21%21",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/10145",
+    "slug": "haikyuu-82"
+  },
+  {
+    "id": 83,
+    "type": "anime",
+    "title": "Mob Psycho 100",
+    "poster": "https://cdn.myanimelist.net/images/anime/8/80356.jpg",
+    "year": "2016",
+    "release_date": null,
+    "rating": 8.4,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Drama",
+      "Comedy"
+    ],
+    "overview": "Mob Psycho 100 — Tv series, 12 episodes. Produced by Bones Inc..",
+    "runtime": null,
+    "episodes": 12,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Bones Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Mob%20Psycho%20100",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/11803",
+    "slug": "mob-psycho-100-83"
+  },
+  {
+    "id": 84,
+    "type": "anime",
+    "title": "One Punch Man",
+    "poster": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
+    "year": "2015",
+    "release_date": null,
+    "rating": 8.5,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Science Fiction",
+      "Drama"
+    ],
+    "overview": "One Punch Man — Tv series, 12 episodes. Produced by Madhouse Inc..",
+    "runtime": null,
+    "episodes": 12,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Madhouse Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=One%20Punch%20Man",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/11123",
+    "slug": "one-punch-man-84"
+  },
+  {
+    "id": 85,
+    "type": "anime",
+    "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+    "poster": "https://cdn.myanimelist.net/images/anime/1895/142748.jpg",
+    "year": "2016",
+    "release_date": null,
+    "rating": 8.1,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Kono Subarashii Sekai ni Shukufuku wo! — Tv series, 10 episodes. Produced by Studio Deen Co., Ltd..",
+    "runtime": null,
+    "episodes": 10,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Studio Deen Co., Ltd."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Kono%20Subarashii%20Sekai%20ni%20Shukufuku%20wo%21",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/11261",
+    "slug": "kono-subarashii-sekai-ni-shukufuku-wo-85"
+  },
+  {
+    "id": 86,
+    "type": "anime",
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "poster": "https://cdn.myanimelist.net/images/anime/1522/128039.jpg",
+    "year": "2016",
+    "release_date": null,
+    "rating": 8.3,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Re:Zero kara Hajimeru Isekai Seikatsu — Tv series, 25 episodes. Produced by White Fox Co., Ltd..",
+    "runtime": null,
+    "episodes": 25,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "White Fox Co., Ltd."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Re%3AZero%20kara%20Hajimeru%20Isekai%20Seikatsu",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/11370",
+    "slug": "re-zero-kara-hajimeru-isekai-seikatsu-86"
+  },
+  {
+    "id": 87,
+    "type": "anime",
+    "title": "Kimetsu no Yaiba",
+    "poster": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+    "year": "2019",
+    "release_date": null,
+    "rating": 8.5,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Kimetsu no Yaiba — Tv series, 26 episodes. Produced by Ufotable, Inc..",
+    "runtime": null,
+    "episodes": 26,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Ufotable, Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Kimetsu%20no%20Yaiba",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/14107",
+    "slug": "kimetsu-no-yaiba-87"
+  },
+  {
+    "id": 88,
+    "type": "anime",
+    "title": "Kaijuu 8-gou",
+    "poster": "https://cdn.myanimelist.net/images/anime/1370/140362.jpg",
+    "year": "2024",
+    "release_date": null,
+    "rating": 8.3,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Kaijuu 8-gou — Tv series, 12 episodes. Produced by Production I.G., Inc..",
+    "runtime": null,
+    "episodes": 12,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Production I.G., Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Kaijuu%208-gou",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/17550",
+    "slug": "kaijuu-8-gou-88"
+  },
+  {
+    "id": 89,
+    "type": "anime",
+    "title": "Kusuriya no Hitorigoto",
+    "poster": "https://cdn.myanimelist.net/images/anime/1708/138033.jpg",
+    "year": "2023",
+    "release_date": null,
+    "rating": 8.8,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance",
+      "Mystery"
+    ],
+    "overview": "Kusuriya no Hitorigoto — Tv series, 24 episodes. Produced by Olm, Inc., Toho Animation Studio Co., Ltd..",
+    "runtime": null,
+    "episodes": 24,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Olm, Inc.",
+      "Toho Animation Studio Co., Ltd."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Kusuriya%20no%20Hitorigoto",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/17870",
+    "slug": "kusuriya-no-hitorigoto-89"
+  },
+  {
+    "id": 90,
+    "type": "anime",
+    "title": "Pluto",
+    "poster": "https://cdn.myanimelist.net/images/anime/1021/138568.jpg",
+    "year": "2023",
+    "release_date": null,
+    "rating": 8.3,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction",
+      "Drama"
+    ],
+    "overview": "Pluto — Ona series, 8 episodes. Produced by Mappa, Studio M2.",
+    "runtime": null,
+    "episodes": 8,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Mappa",
+      "Studio M2"
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Pluto",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/13225",
+    "slug": "pluto-90"
+  },
+  {
+    "id": 91,
+    "type": "anime",
+    "title": "Tensei shitara Slime Datta Ken",
+    "poster": "https://cdn.myanimelist.net/images/anime/1069/123309.jpg",
+    "year": "2018",
+    "release_date": null,
+    "rating": 8.3,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Tensei shitara Slime Datta Ken — Tv series, 24 episodes. Produced by 8 Bit, 8-Bit.",
+    "runtime": null,
+    "episodes": 24,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "8 Bit",
+      "8-Bit",
+      "8Bit Corp, Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Tensei%20shitara%20Slime%20Datta%20Ken",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/13871",
+    "slug": "tensei-shitara-slime-datta-ken-91"
+  },
+  {
+    "id": 92,
+    "type": "anime",
+    "title": "Bocchi the Rock!",
+    "poster": "https://cdn.myanimelist.net/images/anime/1448/127956.jpg",
+    "year": "2022",
+    "release_date": null,
+    "rating": 8.6,
+    "genres": [
+      "Comedy",
+      "School",
+      "Music",
+      "Slice of Life"
+    ],
+    "overview": "Bocchi the Rock! — Tv series, 12 episodes. Produced by Cloverworks Inc..",
+    "runtime": null,
+    "episodes": 12,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Cloverworks Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Bocchi%20the%20Rock%21",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/16063",
+    "slug": "bocchi-the-rock-92"
+  },
+  {
+    "id": 93,
+    "type": "anime",
+    "title": "[Oshi no Ko]",
+    "poster": "https://cdn.myanimelist.net/images/anime/1812/134736.jpg",
+    "year": "2023",
+    "release_date": null,
+    "rating": 8.5,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance",
+      "Thriller"
+    ],
+    "overview": "[Oshi no Ko] — Tv series, 11 episodes. Produced by Doga Kobo, Dōga Kōbō.",
+    "runtime": null,
+    "episodes": 11,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Doga Kobo",
+      "Dōga Kōbō"
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=%5BOshi%20no%20Ko%5D",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/17449",
+    "slug": "oshi-no-ko-93"
+  },
+  {
+    "id": 94,
+    "type": "anime",
+    "title": "Dandadan",
+    "poster": "https://cdn.myanimelist.net/images/anime/1584/143719.jpg",
+    "year": "2024",
+    "release_date": null,
+    "rating": 8.5,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Science Fiction",
+      "Drama"
+    ],
+    "overview": "Dandadan — Tv series, 12 episodes. Produced by Science Saru Inc..",
+    "runtime": null,
+    "episodes": 12,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Science Saru Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Dandadan",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/18290",
+    "slug": "dandadan-94"
+  },
+  {
+    "id": 95,
+    "type": "anime",
+    "title": "Made in Abyss",
+    "poster": "https://cdn.myanimelist.net/images/anime/6/86733.jpg",
+    "year": "2017",
+    "release_date": null,
+    "rating": 8.6,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Made in Abyss — Tv series, 13 episodes. Produced by Kinema Citrus Co., Ltd..",
+    "runtime": null,
+    "episodes": 13,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Kinema Citrus Co., Ltd."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Made%20in%20Abyss",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/12681",
+    "slug": "made-in-abyss-95"
+  },
+  {
+    "id": 96,
+    "type": "anime",
+    "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+    "poster": "https://cdn.myanimelist.net/images/anime/1295/106551.jpg",
+    "year": "2019",
+    "release_date": null,
+    "rating": 8.3,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance",
+      "Psychological"
+    ],
+    "overview": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen — Tv series, 12 episodes. Produced by A-1 Pictures Inc..",
+    "runtime": null,
+    "episodes": 12,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "A-1 Pictures Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Kaguya-sama%20wa%20Kokurasetai%3A%20Tensai-tachi%20no%20Renai%20Zunousen",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/14111",
+    "slug": "kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-96"
+  },
+  {
+    "id": 97,
+    "type": "anime",
+    "title": "Toradora!",
+    "poster": "https://cdn.myanimelist.net/images/anime/13/22128.jpg",
+    "year": "2008",
+    "release_date": null,
+    "rating": 8.2,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance",
+      "School"
+    ],
+    "overview": "Toradora! — Tv series, 25 episodes. Produced by J.C. Staff, J.C.Staff Co., Ltd..",
+    "runtime": null,
+    "episodes": 25,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "J.C. Staff",
+      "J.C.Staff Co., Ltd."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Toradora%21",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/5909",
+    "slug": "toradora-97"
+  },
+  {
+    "id": 98,
+    "type": "anime",
+    "title": "Great Teacher Onizuka",
+    "poster": "https://cdn.myanimelist.net/images/anime/13/11460.jpg",
+    "year": "1999",
+    "release_date": null,
+    "rating": 8.6,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance",
+      "Crime"
+    ],
+    "overview": "Great Teacher Onizuka — Tv series, 43 episodes. Produced by Pierrot Co., Ltd..",
+    "runtime": null,
+    "episodes": 43,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Pierrot Co., Ltd."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Great%20Teacher%20Onizuka",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/191",
+    "slug": "great-teacher-onizuka-98"
+  },
+  {
+    "id": 99,
+    "type": "anime",
+    "title": "Monster",
+    "poster": "https://cdn.myanimelist.net/images/anime/10/18793.jpg",
+    "year": "2004",
+    "release_date": null,
+    "rating": 8.6,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Drama",
+      "Thriller"
+    ],
+    "overview": "Monster — Tv series, 74 episodes. Produced by Madhouse Inc..",
+    "runtime": null,
+    "episodes": 74,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Madhouse Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Monster",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/1539",
+    "slug": "monster-99"
+  },
+  {
+    "id": 100,
+    "type": "anime",
+    "title": "Ouran Koukou Host Club",
+    "poster": "https://cdn.myanimelist.net/images/anime/2/71992.jpg",
+    "year": "2006",
+    "release_date": null,
+    "rating": 8.2,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance",
+      "Crime"
+    ],
+    "overview": "Ouran Koukou Host Club — Tv series, 26 episodes. Produced by Bones Inc..",
+    "runtime": null,
+    "episodes": 26,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Bones Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Ouran%20Koukou%20Host%20Club",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/4148",
+    "slug": "ouran-koukou-host-club-100"
+  },
+  {
+    "id": 101,
+    "type": "anime",
+    "title": "Nanatsu no Taizai",
+    "poster": "https://cdn.myanimelist.net/images/anime/8/65409.jpg",
+    "year": "2014",
+    "release_date": null,
+    "rating": 7.9,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Nanatsu no Taizai — Tv series, 24 episodes. Produced by A-1 Pictures Inc..",
+    "runtime": null,
+    "episodes": 24,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "A-1 Pictures Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Nanatsu%20no%20Taizai",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/10596",
+    "slug": "nanatsu-no-taizai-101"
+  },
+  {
+    "id": 102,
+    "type": "anime",
+    "title": "Sword Art Online",
+    "poster": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
+    "year": "2012",
+    "release_date": null,
+    "rating": 7.6,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Sword Art Online — Tv series, 25 episodes. Produced by A-1 Pictures Inc..",
+    "runtime": null,
+    "episodes": 25,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "A-1 Pictures Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Sword%20Art%20Online",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/8692",
+    "slug": "sword-art-online-102"
+  },
+  {
+    "id": 103,
+    "type": "anime",
+    "title": "Ansatsu Kyoushitsu",
+    "poster": "https://cdn.myanimelist.net/images/anime/5/75639.jpg",
+    "year": "2015",
+    "release_date": null,
+    "rating": 8.1,
+    "genres": [
+      "Action",
+      "Drama",
+      "Comedy",
+      "Supernatural"
+    ],
+    "overview": "Ansatsu Kyoushitsu — Tv series, 22 episodes. Produced by Lerche.",
+    "runtime": null,
+    "episodes": 22,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Lerche"
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Ansatsu%20Kyoushitsu",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/10702",
+    "slug": "ansatsu-kyoushitsu-103"
+  },
+  {
+    "id": 104,
+    "type": "anime",
+    "title": "Noragami",
+    "poster": "https://cdn.myanimelist.net/images/anime/1886/128266.jpg",
+    "year": "2014",
+    "release_date": null,
+    "rating": 7.9,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Noragami — Tv series, 12 episodes. Produced by Bones Inc..",
+    "runtime": null,
+    "episodes": 12,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Bones Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Noragami",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/9925",
+    "slug": "noragami-104"
+  },
+  {
+    "id": 105,
+    "type": "anime",
+    "title": "Kiseijuu: Sei no Kakuritsu",
+    "poster": "https://cdn.myanimelist.net/images/anime/3/73178.jpg",
+    "year": "2014",
+    "release_date": null,
+    "rating": 8.3,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "Kiseijuu: Sei no Kakuritsu — Tv series, 24 episodes. Produced by Madhouse Inc..",
+    "runtime": null,
+    "episodes": 24,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Madhouse Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Kiseijuu%3A%20Sei%20no%20Kakuritsu",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/10272",
+    "slug": "kiseijuu-sei-no-kakuritsu-105"
+  },
+  {
+    "id": 106,
+    "type": "anime",
+    "title": "Boku dake ga Inai Machi",
+    "poster": "https://cdn.myanimelist.net/images/anime/10/77957.jpg",
+    "year": "2016",
+    "release_date": null,
+    "rating": 8.4,
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Thriller",
+      "Mystery"
+    ],
+    "overview": "Boku dake ga Inai Machi — Tv series, 12 episodes. Produced by A-1 Pictures Inc..",
+    "runtime": null,
+    "episodes": 12,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "A-1 Pictures Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Boku%20dake%20ga%20Inai%20Machi",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/11292",
+    "slug": "boku-dake-ga-inai-machi-106"
+  },
+  {
+    "id": 107,
+    "type": "anime",
+    "title": "Yakusoku no Neverland",
+    "poster": "https://cdn.myanimelist.net/images/anime/1830/118780.jpg",
+    "year": "2019",
+    "release_date": null,
+    "rating": 8.4,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Yakusoku no Neverland — Tv series, 12 episodes. Produced by Cloverworks Inc..",
+    "runtime": null,
+    "episodes": 12,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Cloverworks Inc."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Yakusoku%20no%20Neverland",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/14051",
+    "slug": "yakusoku-no-neverland-107"
+  },
+  {
+    "id": 108,
+    "type": "anime",
+    "title": "Black Clover",
+    "poster": "https://cdn.myanimelist.net/images/anime/2/88336.jpg",
+    "year": "2017",
+    "release_date": null,
+    "rating": 7.9,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Black Clover — Tv series, 170 episodes. Produced by Pierrot Co., Ltd..",
+    "runtime": null,
+    "episodes": 170,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Pierrot Co., Ltd."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Black%20Clover",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/12665",
+    "slug": "black-clover-108"
+  },
+  {
+    "id": 109,
+    "type": "anime",
+    "title": "Akame ga Kill!",
+    "poster": "https://cdn.myanimelist.net/images/anime/1429/95946.jpg",
+    "year": "2014",
+    "release_date": null,
+    "rating": 7.6,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Akame ga Kill! — Tv series, 24 episodes. Produced by C-Station, White Fox Co., Ltd..",
+    "runtime": null,
+    "episodes": 24,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "C-Station",
+      "White Fox Co., Ltd."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Akame%20ga%20Kill%21",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/10407",
+    "slug": "akame-ga-kill-109"
+  },
+  {
+    "id": 110,
+    "type": "series",
+    "title": "Arcane",
+    "poster": "https://media.kitsu.app/anime/45469/poster_image/small-8cceafb317eb84448c62ba1ccf5d05b0.jpeg",
+    "year": "2021",
+    "release_date": null,
+    "rating": 7.8,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "overview": "Arcane — 9 episodes. ",
+    "runtime": null,
+    "episodes": 9,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Arcane",
+    "tagline": "",
+    "source_url": "https://myanimelist.net/anime/64465",
+    "slug": "arcane-110"
+  },
+  {
+    "id": 111,
+    "type": "series",
+    "title": "Avatar: The Last Airbender Book 1: Water",
+    "poster": "https://media.kitsu.app/anime/poster_images/7936/small.jpg",
+    "year": "2005",
+    "release_date": null,
+    "rating": 8.4,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Drama"
+    ],
+    "overview": "Avatar: The Last Airbender Book 1: Water — 20 episodes. ",
+    "runtime": null,
+    "episodes": 20,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Avatar%3A%20The%20Last%20Airbender%20Book%201%3A%20Water",
+    "tagline": "",
+    "source_url": "https://kitsu.app/anime/7936",
+    "slug": "avatar-the-last-airbender-book-1-water-111"
+  },
+  {
+    "id": 112,
+    "type": "series",
+    "title": "The Legend of Korra Book 1: Air",
+    "poster": "https://media.kitsu.app/anime/7927/poster_image/small-d44e2663ee2c14b9657461350ed0e684.jpeg",
+    "year": "2012",
+    "release_date": null,
+    "rating": 8.1,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Drama"
+    ],
+    "overview": "The Legend of Korra Book 1: Air — 12 episodes. ",
+    "runtime": null,
+    "episodes": 12,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=The%20Legend%20of%20Korra%20Book%201%3A%20Air",
+    "tagline": "",
+    "source_url": "https://kitsu.app/anime/7927",
+    "slug": "the-legend-of-korra-book-1-air-112"
+  },
+  {
+    "id": 113,
+    "type": "series",
+    "title": "Castlevania",
+    "poster": "https://cdn.anime-planet.com/anime/primary/castlevania-1.jpg",
+    "year": "2017",
+    "release_date": null,
+    "rating": 8.3,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Horror"
+    ],
+    "overview": "Castlevania — 4 episodes. Produced by Frederator Studios, Mua Film.",
+    "runtime": null,
+    "episodes": 4,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Frederator Studios",
+      "Mua Film",
+      "Powerhouse Animation"
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Castlevania",
+    "tagline": "",
+    "source_url": "https://anime-planet.com/anime/castlevania",
+    "slug": "castlevania-113"
+  },
+  {
+    "id": 114,
+    "type": "series",
+    "title": "Gravity Falls",
+    "poster": "https://media.kitsu.app/anime/47505/poster_image/small-3c0b3f2b5c442192d7ec87f59e3177be.jpeg",
+    "year": "2012",
+    "release_date": null,
+    "rating": 8.5,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Science Fiction",
+      "Comedy"
+    ],
+    "overview": "Gravity Falls — 20 episodes. ",
+    "runtime": null,
+    "episodes": 20,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Gravity%20Falls",
+    "tagline": "",
+    "source_url": "https://kitsu.app/anime/47505",
+    "slug": "gravity-falls-114"
+  },
+  {
+    "id": 115,
+    "type": "series",
+    "title": "Adventure Time Season 1",
+    "poster": "https://media.kitsu.app/anime/poster_images/13760/small.jpg",
+    "year": "2010",
+    "release_date": null,
+    "rating": 8.4,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Vampire"
+    ],
+    "overview": "Adventure Time Season 1 — 26 episodes. ",
+    "runtime": null,
+    "episodes": 26,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Adventure%20Time%20Season%201",
+    "tagline": "",
+    "source_url": "https://kitsu.app/anime/13760",
+    "slug": "adventure-time-season-1-115"
+  },
+  {
+    "id": 116,
+    "type": "series",
+    "title": "She-Ra and the Princesses of Power",
+    "poster": "https://media.kitsu.app/anime/poster_images/41994/small.jpg",
+    "year": "2018",
+    "release_date": null,
+    "rating": 8.1,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "She-Ra and the Princesses of Power — 13 episodes. Produced by Dreamworks.",
+    "runtime": null,
+    "episodes": 13,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Dreamworks"
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=She-Ra%20and%20the%20Princesses%20of%20Power",
+    "tagline": "",
+    "source_url": "https://kitsu.app/anime/41994",
+    "slug": "she-ra-and-the-princesses-of-power-116"
+  },
+  {
+    "id": 117,
+    "type": "series",
+    "title": "Teen Titans",
+    "poster": "https://media.kitsu.app/anime/poster_images/7928/small.jpg",
+    "year": "2003",
+    "release_date": null,
+    "rating": 8.4,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Superpowers"
+    ],
+    "overview": "Teen Titans — 65 episodes. ",
+    "runtime": null,
+    "episodes": 65,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Teen%20Titans",
+    "tagline": "",
+    "source_url": "https://kitsu.app/anime/7928",
+    "slug": "teen-titans-117"
+  },
+  {
+    "id": 118,
+    "type": "series",
+    "title": "The Dragon Prince",
+    "poster": "https://media.kitsu.app/anime/42096/poster_image/small-591b7a43c32319ac574dd6c114530e1d.jpeg",
+    "year": "2018",
+    "release_date": null,
+    "rating": 8.2,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Magic"
+    ],
+    "overview": "The Dragon Prince — 9 episodes. ",
+    "runtime": null,
+    "episodes": 9,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=The%20Dragon%20Prince",
+    "tagline": "",
+    "source_url": "https://kitsu.app/anime/42096",
+    "slug": "the-dragon-prince-118"
+  },
+  {
+    "id": 119,
+    "type": "series",
+    "title": "X-Men '97",
+    "poster": "https://media.kitsu.app/anime/48818/poster_image/small-bfacb682242e7736a0c2d032ff71506c.jpeg",
+    "year": "2024",
+    "release_date": null,
+    "rating": 7.8,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Drama",
+      "War"
+    ],
+    "overview": "X-Men '97 — 10 episodes. ",
+    "runtime": null,
+    "episodes": 10,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=X-Men%20%2797",
+    "tagline": "",
+    "source_url": "https://kitsu.app/anime/48818",
+    "slug": "x-men-97-119"
+  },
+  {
+    "id": 120,
+    "type": "series",
+    "title": "Blue Eye Samurai",
+    "poster": "https://media.kitsu.app/anime/48196/poster_image/small-5d9c79654f75a85b40149600a77c6cc6.jpeg",
+    "year": "2023",
+    "release_date": null,
+    "rating": 8.5,
+    "genres": [
+      "Action",
+      "Drama",
+      "Revenge"
+    ],
+    "overview": "Blue Eye Samurai — 8 episodes. ",
+    "runtime": null,
+    "episodes": 8,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Blue%20Eye%20Samurai",
+    "tagline": "",
+    "source_url": "https://kitsu.app/anime/48196",
+    "slug": "blue-eye-samurai-120"
+  },
+  {
+    "id": 121,
+    "type": "series",
+    "title": "DOTA: Dragon's Blood",
+    "poster": "https://cdn.anime-planet.com/anime/primary/dota-dragons-blood-1.jpg",
+    "year": "2021",
+    "release_date": null,
+    "rating": 7.6,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Video Game"
+    ],
+    "overview": "DOTA: Dragon's Blood — 8 episodes. Produced by Production Reve.",
+    "runtime": null,
+    "episodes": 8,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Production Reve"
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=DOTA%3A%20Dragon%27s%20Blood",
+    "tagline": "",
+    "source_url": "https://anime-planet.com/anime/dota-dragons-blood",
+    "slug": "dota-dragon-s-blood-121"
+  },
+  {
+    "id": 122,
+    "type": "series",
+    "title": "Star Wars: Visions",
+    "poster": "https://cdn.myanimelist.net/images/anime/1958/117686.jpg",
+    "year": "2021",
+    "release_date": null,
+    "rating": 7.2,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Star Wars: Visions — 9 episodes. Produced by Geno Studio Inc., Kamikaze Douga.",
+    "runtime": null,
+    "episodes": 9,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [
+      "Geno Studio Inc.",
+      "Kamikaze Douga",
+      "Kamikazedouga Co., Ltd."
+    ],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Star%20Wars%3A%20Visions",
+    "tagline": "",
+    "source_url": "https://anidb.net/anime/16420",
+    "slug": "star-wars-visions-122"
+  },
+  {
+    "id": 123,
+    "type": "series",
+    "title": "Samurai Jack",
+    "poster": "https://media.kitsu.app/anime/poster_images/7939/small.jpg",
+    "year": "2001",
+    "release_date": null,
+    "rating": 8.3,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Samurai Jack — 52 episodes. ",
+    "runtime": null,
+    "episodes": 52,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Samurai%20Jack",
+    "tagline": "",
+    "source_url": "https://kitsu.app/anime/7939",
+    "slug": "samurai-jack-123"
+  },
+  {
+    "id": 124,
+    "type": "series",
+    "title": "The Owl House",
+    "poster": "https://media.kitsu.app/anime/poster_images/42990/small.jpg",
+    "year": "2020",
+    "release_date": null,
+    "rating": 8.4,
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Isekai",
+      "Magic"
+    ],
+    "overview": "The Owl House — 19 episodes. ",
+    "runtime": null,
+    "episodes": 19,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=The%20Owl%20House",
+    "tagline": "",
+    "source_url": "https://kitsu.app/anime/42990",
+    "slug": "the-owl-house-124"
+  },
+  {
+    "id": 125,
+    "type": "series",
+    "title": "Amphibia",
+    "poster": "https://media.kitsu.app/anime/45747/poster_image/small-e82006491f8c3e06c188ebbc51f2dd69.jpeg",
+    "year": "2019",
+    "release_date": null,
+    "rating": 8.0,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Comedy",
+      "Isekai"
+    ],
+    "overview": "Amphibia — 20 episodes. ",
+    "runtime": null,
+    "episodes": 20,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Amphibia",
+    "tagline": "",
+    "source_url": "https://kitsu.app/anime/45747",
+    "slug": "amphibia-125"
+  },
+  {
+    "id": 126,
+    "type": "series",
+    "title": "Kipo and the Age of Wonderbeasts",
+    "poster": "https://media.kitsu.app/anime/poster_images/42945/small.jpg",
+    "year": "2020",
+    "release_date": null,
+    "rating": 8.2,
+    "genres": [
+      "Fantasy",
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "overview": "Kipo and the Age of Wonderbeasts — 10 episodes. ",
+    "runtime": null,
+    "episodes": 10,
+    "cast": [],
+    "crew_label": "Studio",
+    "crew": [],
+    "writers": [],
+    "certification": null,
+    "trailer_yt": null,
+    "kinopoisk_url": "https://www.kinopoisk.ru/index.php?kp_query=Kipo%20and%20the%20Age%20of%20Wonderbeasts",
+    "tagline": "",
+    "source_url": "https://kitsu.app/anime/42945",
+    "slug": "kipo-and-the-age-of-wonderbeasts-126"
+  }
+]
