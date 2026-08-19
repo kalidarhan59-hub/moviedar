@@ -224,6 +224,10 @@ export default defineConfig({
     port: 3000,
     strictPort: false, // Will find next available port if 3000 is busy
     host: true,
+    // The managed HTTPS preview proxies HTTP but may briefly drop the HMR socket
+    // while the dev server restarts. Disable the nonessential client socket so
+    // users do not see a false WebSocket error; regular page reload still works.
+    hmr: false,
     allowedHosts: [
       ".manuspre.computer",
       ".manus.computer",
