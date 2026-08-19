@@ -161,7 +161,7 @@ export default function Home() {
   }, [language]);
 
   useEffect(() => {
-    fetch("/data/catalog.json")
+    fetch(`${import.meta.env.BASE_URL}data/catalog.json`)
       .then((response) => {
         if (!response.ok) throw new Error("Catalog could not be loaded");
         return response.json();
@@ -315,7 +315,7 @@ export default function Home() {
     <main className="site-shell">
       <header className="topbar">
         <a className="brand" href="#home" aria-label="MovieDar — home">
-          <img src="/manus-storage/moviedar-mark_25c38c9a.png" alt="" />
+          <span className="brand-mark" aria-hidden="true" />
           <span className="brand-wordmark">Movie<span>Dar</span></span>
         </a>
 
@@ -482,7 +482,7 @@ export default function Home() {
 
       <footer className="site-footer">
         <div className="footer-brand">
-          <img src="/manus-storage/moviedar-mark_25c38c9a.png" alt="" />
+          <span className="brand-mark" aria-hidden="true" />
           <div><strong>MovieDar</strong><span>{t.personalCinema}</span></div>
         </div>
         <p>{t.footerCopy}</p>
